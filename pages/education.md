@@ -2,7 +2,7 @@
 
 `2020-2020` [University of California, San Diego](https://digitallearning.ucsd.edu/)
 - **Online Course** in Data Structures and Algorithms
-- Topics: Data Structures, Algorithms on Graphs, Optimization, Dynamic Programming
+- Topics: Data Structures, Algorithms, Optimization, Dynamic Programming
 
 `2019-2019` [University of California, Berkeley](https://www.berkeley.edu/)
 - **Online Course** in Artificial Intelligence
