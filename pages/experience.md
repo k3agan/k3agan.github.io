@@ -5,8 +5,8 @@
 Completed full lifecycle application testing to enterprise business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
 - Detailed achievements:
   - Collaborated with colleagues to implement the Trade Promotions Management Project.
-  - Created the test plan for the new version of the company's Vendor Materials Evaluation application, which is a web-based application that allows users to create and manage the entire lifecycle of supplier materials from inititation to QA approval.
-  - Created the integration test platform, code, and pipeline tasks for the company's internal custom application framework (CAF).
+  - Created the test plan for the new version of the company's Vendor Materials Evaluation application.
+  - Created the internal integration test platform, code, and pipeline tasks as part of the company's internal custom application framework (CAF).
 - _**Technologies used:**_ Python, MSSQL, Jmeter, Azure Piplines
 
 <!-- &nbsp;
