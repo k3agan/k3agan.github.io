@@ -1,6 +1,9 @@
 # 👨‍💻 Experience
 
-**Software Test Specialist** @ [Factors Group](https://naturalfactors.com/) _(Dec 2020 - Present)_
+
+**Master Data Managment Specialist** @ [Factors Group](https://naturalfactors.com/) _(Feb 2023 - Present)_
+
+**Software Test Specialist** @ [Factors Group](https://naturalfactors.com/) _(Dec 2020 - Feb 2023)_
 
 Completed full lifecycle application testing to enterprise business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
 - Detailed achievements:
